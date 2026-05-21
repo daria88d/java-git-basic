@@ -27,5 +27,6 @@ public class MainApplication {
             int result = a / b;
             System.out.println(a + " / " + b + " = " + result);
         }
+        System.out.println("1");
     }
 }
